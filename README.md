@@ -1,2 +1,3 @@
 # PPEMS
-Parsing Prokaryotic and Eukaryotic Microbial Genes Simultaneously from Metagenome by a Novel Analysis Workflow
+Parsing Prokaryotic and Eukaryotic Microbial Genes Simultaneously from Metagenome by a Novel Analysis Workflow.
+The lack of reliable methods for the simultaneous prediction of prokaryotic and eukaryotic microbial genes further complicates this task. We evaluated gene prediction accuracy for various single organisms using MetaGeneMark and MetaEuk pipelines. Building upon these findings, we devised an innovative analysis workflow. Our approach involves initially predicting eukaryotic genes using MetaEuk, followed by masking of predicted eukaryotic and partial prokaryotic genes via a Perl program. The subsequent prediction of remaining prokaryotic genes is conducted using MetaGeneMark or metaProdigal. The new workflow effectively enables the rapid and precise retrieval of coding sequences from metagenomes.
