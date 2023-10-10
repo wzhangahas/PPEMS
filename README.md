@@ -39,6 +39,7 @@ prodigal -i metagenome-metaeuk_masked.fa -o prodigal.genes -a prodigal.proteins.
 
 MetaGeneMark_linux_64/mgm/gmhmmp -a -d -f 3 -m MetaGeneMark_linux_64/mgm/MetaGeneMark_v1.mod metagenome-metaeuk_masked.fa -A MetaGeneMark_mix_protein.fasta -D MetaGeneMark_mix_nucleotide.fasta
 
+eggNOG-mapper was used to annotate the predicted protein.
 
 Citation: 
 Parsing Prokaryotic and Eukaryotic Microbial Genes Simultaneously from Metagenome by a Novel Analysis Workflow
