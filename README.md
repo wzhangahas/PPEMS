@@ -4,7 +4,7 @@ Parsing Prokaryotic and Eukaryotic Microbial Genes Simultaneously from Metagenom
     The lack of reliable methods for the simultaneous prediction of prokaryotic and eukaryotic microbial genes further complicates this task. We evaluated gene prediction accuracy for various single organisms using MetaGeneMark and MetaEuk pipelines. Building upon these findings, we devised an innovative analysis workflow. Our approach involves initially predicting eukaryotic genes using MetaEuk, followed by masking of predicted eukaryotic and partial prokaryotic genes via a Perl program. The subsequent prediction of remaining prokaryotic genes is conducted using MetaGeneMark or metaProdigal. The new workflow effectively enables the rapid and precise retrieval of coding sequences from metagenomes.
 Install:
 
-The easiest way to the following software:
+The easiest way to install the following software:
 
 MetaEuk: conda install -c conda-forge -c bioconda metaeuk; conda install -c conda-forge -c bioconda mmseqs2
 
