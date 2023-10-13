@@ -19,10 +19,10 @@ cp -r  gm_key_64 ~/.gm_key
 
 tar -xzvf MetaGeneMark_linux_64.tar.gz
 
+The test data download from https://wwwuser.gwdg.de/~compbiol/metaeuk/.
+
 
 Run:
-
-Database: https://wwwuser.gwdg.de/~compbiol/metaeuk/
 
 congitgs: wget https://wwwuser.gwdg.de/~compbiol/metaeuk/2019_11/assembled_Tara_5kb_EukRep_contigs.fas.gz
 
@@ -44,3 +44,6 @@ eggNOG-mapper was used to annotate the predicted protein.
 
 Citation: 
 Parsing Prokaryotic and Eukaryotic Microbial Genes Simultaneously from Metagenome by a Novel Analysis Workflow
+
+Contact us: 
+If you have any qustion, please don'nt hasitate contact with us by email, wzhangahas@163.com.
