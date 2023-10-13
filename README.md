@@ -48,4 +48,4 @@ Citation:
 Parsing Prokaryotic and Eukaryotic Microbial Genes Simultaneously from Metagenome by a Novel Analysis Workflow
 
 Contact us: 
-If you have any qustion, please don'nt hasitate contact with us by email, wzhangahas@163.com.
+If you have any qustion, please don't hesitate contact us by email, wzhangahas@163.com.
