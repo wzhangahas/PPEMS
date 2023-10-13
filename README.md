@@ -19,14 +19,16 @@ cp -r  gm_key_64 ~/.gm_key
 
 tar -xzvf MetaGeneMark_linux_64.tar.gz
 
-The test data download from https://wwwuser.gwdg.de/~compbiol/metaeuk/.
-
-
-Run:
+The test data download from https://wwwuser.gwdg.de/~compbiol/metaeuk/,
 
 congitgs: wget https://wwwuser.gwdg.de/~compbiol/metaeuk/2019_11/assembled_Tara_5kb_EukRep_contigs.fas.gz
 
 protein database: wget https://wwwuser.gwdg.de/~compbiol/metaeuk/2019_11/MERC_MMETSP_Uniclust50_profiles_for_old_metaeuk.tar.gz
+
+
+Run:
+
+
 
 tar -xzvf MERC_MMETSP_Uniclust50_profiles_for_old_metaeuk.tar.gz
 
